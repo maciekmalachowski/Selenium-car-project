@@ -22,11 +22,11 @@ https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers
 I am using chromedriver here.
 To start the program go to the project folder.
  ```
-C:\Users\user> cd Selenium-car-projekt
+cd Selenium-car-projekt
 ```
 Then just run `car_data_downloader.py` file:
  ```
-C:\Users\user\Selenium-car-projekt> python car_data_downloader.py
+python car_data_downloader.py
 ```
 
 ## Note
